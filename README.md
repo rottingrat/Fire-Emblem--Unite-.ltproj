@@ -6,3 +6,7 @@ FEUnite is an open-source FE fangame made in the LT engine. It's a community sel
 
 You may use any code and stuff, but please don't use portraits without permission of the person it
 represents or belongs it.
+
+Credits:
+
+Militia sprite by Alusq and Knabepicer

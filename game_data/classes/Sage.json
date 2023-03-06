@@ -103,7 +103,7 @@
             ],
             "Anima": [
                 true,
-                31
+                62
             ],
             "Dark": [
                 false,
@@ -112,6 +112,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                62
+            ],
+            "Tome": [
+                true,
+                62
             ]
         },
         "icon_nid": "Generic_Portrait_Sage",

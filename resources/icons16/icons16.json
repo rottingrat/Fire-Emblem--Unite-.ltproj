@@ -57,6 +57,11 @@
     },
     {
         "nid": "wexp_icons",
-        "subicon_dict": {}
+        "subicon_dict": {
+            "wexp_icons 0, 0": [
+                0,
+                0
+            ]
+        }
     }
 ]

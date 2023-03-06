@@ -17,11 +17,11 @@
     ],
     [
         "fatigue",
-        false
+        true
     ],
     [
         "reset_fatigue",
-        false
+        true
     ],
     [
         "minimap",
@@ -49,7 +49,7 @@
     ],
     [
         "bexp",
-        false
+        true
     ],
     [
         "rd_bexp_lvl",
@@ -57,11 +57,15 @@
     ],
     [
         "support",
-        false
+        true
     ],
     [
         "overworld",
         true
+    ],
+    [
+        "overworld_start",
+        false
     ],
     [
         "unit_notes",
@@ -78,6 +82,10 @@
     [
         "growth_info",
         true
+    ],
+    [
+        "glancing_hit",
+        false
     ],
     [
         "backpropagate_difficulty_growths",
@@ -120,6 +128,10 @@
         false
     ],
     [
+        "promote_skill_inheritance",
+        true
+    ],
+    [
         "promote_level_reset",
         true
     ],
@@ -156,6 +168,10 @@
         false
     ],
     [
+        "autogenerate_grey_map_sprites",
+        true
+    ],
+    [
         "convoy_on_death",
         false
     ],
@@ -173,7 +189,7 @@
     ],
     [
         "combat_art_category",
-        false
+        true
     ],
     [
         "reset_mana",
@@ -313,10 +329,6 @@
     ],
     [
         "dark_sprites",
-        false
-    ],
-    [
-        "glancing_hit",
         false
     ]
 ]

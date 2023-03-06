@@ -107,8 +107,8 @@
                 16
             ],
             "Anima": [
-                false,
-                0
+                true,
+                16
             ],
             "Dark": [
                 false,
@@ -117,6 +117,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                16
+            ],
+            "Tome": [
+                true,
+                16
             ]
         },
         "icon_nid": "Generic_Portrait_Bishop",

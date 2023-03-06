@@ -117,6 +117,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                false,
+                0
+            ],
+            "Tome": [
+                false,
+                0
             ]
         },
         "icon_nid": "Generic_Portrait_Myrmidon",

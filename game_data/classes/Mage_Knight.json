@@ -109,7 +109,7 @@
                 0
             ],
             "Anima": [
-                2,
+                true,
                 71
             ],
             "Dark": [
@@ -119,6 +119,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                71
+            ],
+            "Tome": [
+                true,
+                71
             ]
         },
         "icon_nid": "Generic_Portrait_Mage_Knight",

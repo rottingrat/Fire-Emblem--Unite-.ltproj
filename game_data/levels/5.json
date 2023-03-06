@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Ocee",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -88,6 +88,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -111,6 +112,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -134,6 +136,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -157,6 +160,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -180,6 +184,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -203,6 +208,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -226,6 +232,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -249,6 +256,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -272,6 +280,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -295,6 +304,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -318,6 +328,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -341,6 +352,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -364,6 +376,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -387,6 +400,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -410,6 +424,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -433,6 +448,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -453,6 +469,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -473,6 +490,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -493,6 +511,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -513,6 +532,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,
@@ -533,6 +553,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "PursueVillage",
                 "roam_ai": null,

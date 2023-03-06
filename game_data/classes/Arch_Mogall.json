@@ -105,8 +105,8 @@
                 0
             ],
             "Anima": [
-                false,
-                0
+                true,
+                181
             ],
             "Dark": [
                 true,
@@ -115,6 +115,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                181
+            ],
+            "Tome": [
+                true,
+                181
             ]
         },
         "icon_nid": "Generic_Portrait_Arch_Mogall",

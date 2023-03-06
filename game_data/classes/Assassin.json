@@ -80,8 +80,8 @@
         "learned_skills": [],
         "wexp_gain": {
             "Sword": [
-                2,
-                30
+                false,
+                0
             ],
             "Lance": [
                 false,
@@ -95,7 +95,19 @@
                 false,
                 0
             ],
+            "Knife": [
+                true,
+                30
+            ],
+            "Tome": [
+                false,
+                0
+            ],
             "Staff": [
+                false,
+                0
+            ],
+            "Default": [
                 false,
                 0
             ],
@@ -111,7 +123,7 @@
                 false,
                 0
             ],
-            "Default": [
+            "Tomes": [
                 false,
                 0
             ]

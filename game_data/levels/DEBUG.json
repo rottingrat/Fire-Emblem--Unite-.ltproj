@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Eirika",
+                "nid": "Ocee",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -70,6 +70,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -82,7 +83,7 @@
                 "generic": true
             },
             {
-                "nid": "Seth",
+                "nid": "Mouse",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -136,6 +137,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,

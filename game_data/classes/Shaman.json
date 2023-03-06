@@ -102,8 +102,8 @@
                 0
             ],
             "Anima": [
-                false,
-                0
+                true,
+                31
             ],
             "Dark": [
                 true,
@@ -112,6 +112,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                31
+            ],
+            "Tome": [
+                true,
+                31
             ]
         },
         "icon_nid": "Generic_Portrait_Shaman",

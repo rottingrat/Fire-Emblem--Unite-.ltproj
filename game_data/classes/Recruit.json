@@ -2,7 +2,7 @@
     {
         "nid": "Recruit",
         "name": "Recruit",
-        "desc": "Mounted knights with superior movement.",
+        "desc": "A lancer with potential.",
         "tier": 1,
         "movement_group": "Regular",
         "promotes_from": null,
@@ -97,7 +97,19 @@
                 false,
                 0
             ],
+            "Knife": [
+                false,
+                0
+            ],
+            "Tome": [
+                false,
+                0
+            ],
             "Staff": [
+                false,
+                0
+            ],
+            "Default": [
                 false,
                 0
             ],
@@ -113,7 +125,7 @@
                 false,
                 0
             ],
-            "Default": [
+            "Tomes": [
                 false,
                 0
             ]
@@ -124,7 +136,7 @@
             0
         ],
         "map_sprite_nid": "Recruit",
-        "combat_anim_nid": null,
+        "combat_anim_nid": "Recruit",
         "fields": []
     }
 ]

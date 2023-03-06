@@ -1,43 +1,47 @@
 [
     {
-        "nid": "Seth",
-        "name": "Seth",
-        "desc": "A young commander of Renais.\nHe's calm, composed, and skilled.",
+        "nid": "Tor",
+        "name": "Tor",
+        "desc": "An earnest and compassionate cavalier from Renais.",
         "variant": null,
         "level": 1,
-        "klass": "Paladin",
+        "klass": "Archer",
         "tags": [],
         "bases": {
-            "HP": 30,
-            "STR": 14,
-            "MAG": 7,
-            "SKL": 13,
-            "SPD": 12,
-            "LCK": 13,
-            "DEF": 11,
-            "CON": 11,
-            "MOV": 8,
-            "RES": 8
+            "HP": 20,
+            "STR": 7,
+            "MAG": 3,
+            "SKL": 5,
+            "SPD": 7,
+            "LCK": 2,
+            "DEF": 6,
+            "CON": 6,
+            "MOV": 4,
+            "RES": 1
         },
         "growths": {
-            "HP": 90,
-            "STR": 50,
-            "MAG": 25,
-            "SKL": 45,
-            "SPD": 45,
-            "LCK": 25,
-            "DEF": 40,
+            "HP": 55,
+            "STR": 40,
+            "MAG": 40,
+            "SKL": 40,
+            "SPD": 35,
+            "LCK": 40,
+            "DEF": 20,
             "CON": 0,
             "MOV": 0,
-            "RES": 30
+            "RES": 65
         },
         "starting_items": [
             [
-                "Steel Sword",
+                "Iron Lance",
                 false
             ],
             [
-                "Silver Lance",
+                "Iron Lance",
+                false
+            ],
+            [
+                "Vulnerary",
                 false
             ],
             [
@@ -50,11 +54,11 @@
         "wexp_gain": {
             "Sword": [
                 true,
-                181
+                1
             ],
             "Lance": [
                 true,
-                181
+                31
             ],
             "Axe": [
                 false,
@@ -83,11 +87,19 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                false,
+                0
+            ],
+            "Tome": [
+                false,
+                0
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Seth",
-        "affinity": "Anima",
+        "portrait_nid": "Franz",
+        "affinity": "Light",
         "fields": []
     }
 ]

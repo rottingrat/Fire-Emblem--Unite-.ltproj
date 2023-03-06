@@ -25,7 +25,7 @@
         "go_to_overworld": true,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Ocee",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Mouse",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -51,7 +51,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Loadez",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -64,7 +64,7 @@
                 "generic": false
             },
             {
-                "nid": "Franz",
+                "nid": "Tor",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -101,6 +101,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -124,6 +125,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -147,6 +149,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -170,6 +173,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -193,6 +197,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -216,6 +221,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -239,6 +245,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Pursue",
                 "roam_ai": null,
@@ -259,6 +266,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -279,6 +287,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -294,6 +303,7 @@
                 "klass": "Cavalier",
                 "faction": "Soldier",
                 "starting_items": [],
+                "starting_skills": [],
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -314,6 +324,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -435,8 +446,8 @@
             {
                 "nid": "Rein",
                 "units": [
-                    "Gilliam",
-                    "Franz"
+                    "Loadez",
+                    "Tor"
                 ],
                 "positions": {}
             },
@@ -465,8 +476,8 @@
             {
                 "nid": "EirikaSeth",
                 "units": [
-                    "Eirika",
-                    "Seth"
+                    "Ocee",
+                    "Mouse"
                 ],
                 "positions": {}
             }

@@ -70,7 +70,7 @@
             ],
             "Anima": [
                 true,
-                181
+                302
             ],
             "Dark": [
                 false,
@@ -79,6 +79,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                302
+            ],
+            "Tome": [
+                true,
+                302
             ]
         },
         "alternate_classes": [],

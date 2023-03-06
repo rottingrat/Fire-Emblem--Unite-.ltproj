@@ -25,7 +25,7 @@
         "go_to_overworld": false,
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Ocee",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -38,7 +38,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Mouse",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -51,7 +51,7 @@
                 "generic": false
             },
             {
-                "nid": "Franz",
+                "nid": "Tor",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -64,7 +64,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Loadez",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -176,6 +176,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -199,6 +200,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -222,6 +224,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -249,6 +252,7 @@
                         true
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -276,6 +280,7 @@
                         true
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -303,6 +308,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -330,6 +336,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -353,6 +360,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "Attack",
                 "roam_ai": null,
@@ -376,6 +384,7 @@
                         false
                     ]
                 ],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "SimpleThief",
                 "roam_ai": null,
@@ -394,6 +403,7 @@
                 "klass": "Wall25",
                 "faction": "Wall",
                 "starting_items": [],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -412,6 +422,7 @@
                 "klass": "Wall25",
                 "faction": "Wall",
                 "starting_items": [],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -430,6 +441,7 @@
                 "klass": "Wall25",
                 "faction": "Wall",
                 "starting_items": [],
+                "starting_skills": [],
                 "team": "enemy",
                 "ai": "None",
                 "roam_ai": null,
@@ -448,6 +460,7 @@
                 "klass": "Citizen",
                 "faction": "Soldier",
                 "starting_items": [],
+                "starting_skills": [],
                 "team": "other",
                 "ai": "None",
                 "roam_ai": null,
@@ -591,10 +604,10 @@
             {
                 "nid": "PlayerTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Franz",
-                    "Gilliam",
+                    "Ocee",
+                    "Mouse",
+                    "Tor",
+                    "Loadez",
                     "Vanessa",
                     "Moulder",
                     "Ross",

@@ -102,8 +102,8 @@
                 0
             ],
             "Anima": [
-                false,
-                0
+                true,
+                251
             ],
             "Dark": [
                 2,
@@ -112,6 +112,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                251
+            ],
+            "Tome": [
+                true,
+                251
             ]
         },
         "icon_nid": "Generic_Portrait_Citizen",

@@ -83,6 +83,14 @@
             "Default": [
                 false,
                 0
+            ],
+            "Tomes": [
+                true,
+                1
+            ],
+            "Tome": [
+                true,
+                1
             ]
         },
         "alternate_classes": [],
