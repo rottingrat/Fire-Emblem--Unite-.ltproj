@@ -108,5 +108,6 @@
     "global_Summon_Soldiers.json": 106,
     "global_Support_Gain.json": 107,
     "2_OnOverworldEnter.json": 108,
-    "2_OnLevelSelect.json": 109
+    "2_OnLevelSelect.json": 109,
+    "global_Battle_Saves.json": 110
 }

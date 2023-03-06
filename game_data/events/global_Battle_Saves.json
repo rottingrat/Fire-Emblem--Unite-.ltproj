@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Battle Saves",
+        "trigger": "turn_change",
+        "level_nid": null,
+        "condition": "game.turncount != 1",
+        "commands": [
+            [
+                "choice",
+                [
+                    "battle_save",
+                    "Would you like to save?",
+                    "Yes,No"
+                ]
+            ],
+            [
+                "if",
+                [
+                    "'{v:battle_save}' == 'Yes'"
+                ]
+            ],
+            [
+                "battle_save",
+                []
+            ],
+            [
+                "end",
+                []
+            ]
+        ],
+        "only_once": false,
+        "priority": 20
+    }
+]

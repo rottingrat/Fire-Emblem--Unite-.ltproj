@@ -484,6 +484,7 @@
                 ],
                 "sub_nid": "Chest",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -500,6 +501,7 @@
                 ],
                 "sub_nid": "Chest",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -516,6 +518,7 @@
                 ],
                 "sub_nid": "Chest",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -532,6 +535,7 @@
                 ],
                 "sub_nid": "Chest",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -548,6 +552,7 @@
                 ],
                 "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -564,6 +569,7 @@
                 ],
                 "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -580,6 +586,7 @@
                 ],
                 "sub_nid": "Door",
                 "condition": "unit.can_unlock(region)",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -596,6 +603,7 @@
                 ],
                 "sub_nid": "Seize",
                 "condition": "'Lord' in unit.tags",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             }

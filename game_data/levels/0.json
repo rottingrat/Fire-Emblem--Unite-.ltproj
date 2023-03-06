@@ -2,7 +2,7 @@
     {
         "nid": "0",
         "name": "Prologue",
-        "tilemap": "Prologue",
+        "tilemap": "Chapter 1",
         "bg_tilemap": null,
         "party": "Eirika",
         "music": {

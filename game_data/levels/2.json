@@ -328,6 +328,7 @@
                 ],
                 "sub_nid": "Visit",
                 "condition": "True",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -344,6 +345,7 @@
                 ],
                 "sub_nid": "Visit",
                 "condition": "True",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -360,6 +362,7 @@
                 ],
                 "sub_nid": "Visit",
                 "condition": "True",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -376,6 +379,7 @@
                 ],
                 "sub_nid": "Armory",
                 "condition": "True",
+                "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
             },
@@ -392,6 +396,7 @@
                 ],
                 "sub_nid": "Destructible",
                 "condition": "unit.team == 'enemy'",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -408,6 +413,7 @@
                 ],
                 "sub_nid": "Destructible",
                 "condition": "unit.team == 'enemy'",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -424,6 +430,7 @@
                 ],
                 "sub_nid": "Destructible",
                 "condition": "unit.team == 'enemy'",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             }

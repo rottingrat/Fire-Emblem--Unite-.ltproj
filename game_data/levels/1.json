@@ -348,6 +348,7 @@
                 ],
                 "sub_nid": "Visit",
                 "condition": "True",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -364,6 +365,7 @@
                 ],
                 "sub_nid": "Visit",
                 "condition": "True",
+                "time_left": null,
                 "only_once": true,
                 "interrupt_move": false
             },
@@ -380,6 +382,7 @@
                 ],
                 "sub_nid": "Seize",
                 "condition": "unit.nid == 'Eirika'",
+                "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
             },
@@ -396,6 +399,7 @@
                 ],
                 "sub_nid": "",
                 "condition": "True",
+                "time_left": null,
                 "only_once": false,
                 "interrupt_move": false
             }
