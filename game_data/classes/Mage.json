@@ -2,7 +2,7 @@
     {
         "nid": "Mage",
         "name": "Mage",
-        "desc": "Curious practioners of anima magic.",
+        "desc": "Curious practioners of magic.",
         "tier": 1,
         "movement_group": "Mages",
         "promotes_from": null,
@@ -96,7 +96,19 @@
                 false,
                 0
             ],
+            "Knife": [
+                false,
+                0
+            ],
+            "Tome": [
+                true,
+                31
+            ],
             "Staff": [
+                false,
+                0
+            ],
+            "Default": [
                 false,
                 0
             ],
@@ -112,15 +124,7 @@
                 false,
                 0
             ],
-            "Default": [
-                false,
-                0
-            ],
             "Tomes": [
-                true,
-                31
-            ],
-            "Tome": [
                 true,
                 31
             ]

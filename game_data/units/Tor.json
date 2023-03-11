@@ -33,15 +33,7 @@
         },
         "starting_items": [
             [
-                "Iron Lance",
-                false
-            ],
-            [
-                "Iron Lance",
-                false
-            ],
-            [
-                "Vulnerary",
+                "Iron Bow",
                 false
             ],
             [
@@ -49,16 +41,21 @@
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "CautiousStance"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [
                 true,
-                1
+                0
             ],
             "Lance": [
                 true,
-                31
+                0
             ],
             "Axe": [
                 false,
@@ -66,7 +63,7 @@
             ],
             "Bow": [
                 false,
-                0
+                1
             ],
             "Staff": [
                 false,

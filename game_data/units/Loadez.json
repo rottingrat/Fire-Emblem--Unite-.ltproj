@@ -5,7 +5,7 @@
         "desc": "An armoured knight from Frelia. He's quiet yet dependable.",
         "variant": null,
         "level": 1,
-        "klass": "Thief",
+        "klass": "Outlaw",
         "tags": [],
         "bases": {
             "HP": 16,
@@ -33,16 +33,21 @@
         },
         "starting_items": [
             [
-                "Iron Sword",
+                "Iron_Knife",
                 false
             ]
         ],
-        "learned_skills": [],
+        "learned_skills": [
+            [
+                1,
+                "LoadezSkill"
+            ]
+        ],
         "unit_notes": [],
         "wexp_gain": {
             "Sword": [
                 false,
-                1
+                0
             ],
             "Lance": [
                 true,
@@ -83,6 +88,10 @@
             "Tome": [
                 false,
                 0
+            ],
+            "Knife": [
+                false,
+                1
             ]
         },
         "alternate_classes": [],

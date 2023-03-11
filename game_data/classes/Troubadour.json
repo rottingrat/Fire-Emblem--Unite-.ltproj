@@ -103,9 +103,21 @@
                 false,
                 0
             ],
+            "Knife": [
+                false,
+                0
+            ],
+            "Tome": [
+                false,
+                0
+            ],
             "Staff": [
                 true,
                 31
+            ],
+            "Default": [
+                false,
+                0
             ],
             "Light": [
                 false,
@@ -119,15 +131,7 @@
                 false,
                 0
             ],
-            "Default": [
-                false,
-                0
-            ],
             "Tomes": [
-                false,
-                0
-            ],
-            "Tome": [
                 false,
                 0
             ]

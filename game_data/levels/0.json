@@ -44,7 +44,7 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    4,
+                    3,
                     4
                 ],
                 "starting_traveler": null,
@@ -92,8 +92,8 @@
                 "roam_ai": null,
                 "ai_group": null,
                 "starting_position": [
-                    8,
-                    6
+                    6,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": true
@@ -107,6 +107,32 @@
                 "starting_position": [
                     10,
                     8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Tor",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    4,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Loadez",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    5,
+                    4
                 ],
                 "starting_traveler": null,
                 "generic": false

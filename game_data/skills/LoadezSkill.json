@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "LoadezSkill",
+        "name": "LoadezSkill",
+        "desc": "",
+        "icon_nid": "Anima",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_combat",
+                "LoadezSkill_child"
+            ],
+            [
+                "combat_condition",
+                "mode == 'attack' and not combat_calcs.can_counterattack(unit, item, unit2, unit2.get_weapon())"
+            ]
+        ]
+    }
+]

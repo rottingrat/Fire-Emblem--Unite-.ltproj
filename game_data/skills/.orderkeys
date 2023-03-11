@@ -39,5 +39,7 @@
     "Void_Curse.json": 37,
     "Inspiration.json": 38,
     "Inspiration_child.json": 39,
-    "CautiousStance.json": 40
+    "CautiousStance.json": 40,
+    "LoadezSkill.json": 41,
+    "LoadezSkill_child.json": 42
 }

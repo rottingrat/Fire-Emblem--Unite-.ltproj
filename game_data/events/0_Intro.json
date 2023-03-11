@@ -34,7 +34,7 @@
                 "change_class",
                 [
                     "Ocee",
-                    "{v:_last_choice}",
+                    "{v:class}",
                     "silent"
                 ]
             ],
@@ -43,6 +43,13 @@
                 [
                     "Nayru's Song",
                     "0"
+                ]
+            ],
+            [
+                "speak",
+                [
+                    "Ocee",
+                    "Huh...?|Where am I?"
                 ]
             ]
         ],

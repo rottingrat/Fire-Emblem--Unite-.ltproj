@@ -5,7 +5,7 @@
         "desc": "A childhood friend of Neimi who hails from Renais. He can be snide.",
         "variant": "",
         "level": 2,
-        "klass": "Thief",
+        "klass": "Outlaw",
         "tags": [],
         "bases": {
             "HP": 18,

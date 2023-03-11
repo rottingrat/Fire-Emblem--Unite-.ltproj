@@ -5,11 +5,9 @@
         "desc": "",
         "tier": 2,
         "movement_group": "Light Foot",
-        "promotes_from": "Thief",
+        "promotes_from": "Outlaw",
         "turns_into": [],
-        "tags": [
-            "Sword"
-        ],
+        "tags": [],
         "max_level": 20,
         "bases": {
             "HP": 16,
@@ -97,7 +95,7 @@
             ],
             "Knife": [
                 true,
-                30
+                31
             ],
             "Tome": [
                 false,
